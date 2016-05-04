@@ -7,11 +7,8 @@ To run it:
 
         sudo pip install slackclient
 
-2. Get a Slack authentication token for the workshop slack team:
-
-        [https://api.slack.com/docs/oauth-test-tokens] 
+2. [Get a Slack authentication token](https://api.slack.com/docs/oauth-test-tokens)
 
 3. Run the script passing your token on the command line:
 
         ./microtivity *token*
- 
