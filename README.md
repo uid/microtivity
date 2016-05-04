@@ -11,4 +11,5 @@ To run it:
 
 3. Run the script passing your token on the command line:
 
-        ./microtivity *token*
+        ./microtivity xoxp-3131...e08a2
+
